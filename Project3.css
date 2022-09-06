@@ -1,0 +1,183 @@
+/*1st Slide*/
+.navs_con {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.BrandName {
+    position: absolute;
+    top: 25px;
+    left: 0px;
+}
+
+/*2nd Slide*/
+#Pic1Cur {
+    width: 100vw;
+}
+
+#text1 {
+    height: 500px;
+}
+
+.buttonmain {
+    width: 100%;
+    margin: auto;
+    justify-content: space-around;
+}
+
+.imagecontainer {
+    height: 900px;
+}
+
+/*3rd Slide*/
+.Product1_main {
+    margin: 10px;
+    margin-top: 60px;
+}
+
+.textcontainer {
+    width: 100%;
+    height: 150px;
+}
+
+.Product1 {
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid red; */
+    /* margin: auto; */
+    /* width: 90%; */
+    text-align: center;
+    height: 400px;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+/*4th Slide*/
+#Pic4Cur {
+    width: 100vw;
+}
+
+.imagecontainer2 {
+    justify-content: space-evenly;
+    height: 850px;
+    text-align: center;
+}
+
+#textz1 {
+    width: 100%;
+}
+
+/*5th Slide*/
+#Pic5Cur {
+    width: 100vw;
+}
+
+.imagecontainer3 {
+    margin-top: 20px;
+    height: 700px;
+}
+
+#texts1 {
+    width: 90%;
+    padding-top: 20px;
+}
+
+/*6th Slide*/
+.textcont2col {
+    height: 1150px;
+}
+
+.textcontainer2 {
+    /* border: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    height: 1150px;
+}
+
+.s6item1 {
+    width: 85%;
+    margin-left: 5px;
+    margin-bottom: 10px;
+    height: 180px;
+}
+
+.s6item2 {
+    width: 70%;
+    margin-top: 20px;
+}
+
+/*7th Slide*/
+.textcontainer3 {
+    width: 90%;
+    height: 300px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+/*8th Slide*/
+#Pic6Cur {
+    width: 100vw;
+}
+
+.imagecontainer5 {
+    height: 650px;
+    margin-top: 10px;
+}
+
+#s8textz1 {
+    height: 275px;
+    padding-top: 10px;
+}
+
+/*9th Slide*/
+.textcontainer4 {
+    width: 80%;
+    height: 300px;
+    margin-top: 50px;
+}
+
+/*10th Slide*/
+.s10con {
+    width: 90%;
+    margin: auto;
+    padding: 0px;
+    padding-top: 100px;
+}
+.s10buttonmain {
+    width: 100%;
+}
+
+/*11th Slide*/
+.textcont11col {
+    height: 250px;
+}
+
+.textcontainer5 {
+    width: 100%;
+    height: 250px;
+
+}
+
+.s11box1 {
+    width: 20%;
+}
+.s11item1 {
+    width: 65%;
+    height: 200px;
+    padding: 0px 10px;
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.s11box2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-right: 20px;
+}
+
+.s11boxs1 {
+    font-size: 10px;
+}

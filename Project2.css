@@ -1,0 +1,121 @@
+/*1st Slide*/
+.NavigationBar ul {
+    /* overflow: auto; */
+    margin: 16px 10px;
+}
+
+/*2nd Slide*/
+.imagecontainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 850px;
+    text-align: center;
+}
+
+#text1 {
+    padding-top: 20px;
+}
+
+.buttonmain {
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+    margin: auto;
+    justify-content: space-between;
+}
+
+/*3rd Slide*/
+.Product1_main {
+    margin: 10px;
+    margin-top: 60px;
+}
+
+/*4th Slide*/
+.imagecontainer2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 800px;
+    text-align: center;
+}
+
+#textz1 {
+    display: flex;
+    flex-direction: column;
+    font-family: 'Roboto', sans-serif;
+    justify-content: space-between;
+    padding-top: 20px;
+    width: 60%;
+    margin: auto;
+    align-items: center;
+}
+
+/*5th Slide*/
+.imagecontainer3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 600px;
+    padding-top: 20px;
+}
+
+#texts1 {
+    padding-top: 20px;
+    width: 60%;
+}
+
+#s5shelter {
+    padding-bottom: 20px;
+}
+
+/*6th Slide*/
+.textcontainer2 {
+    width: 100%;
+}
+
+.s6item1 {
+    margin-left: 10px;
+}
+
+.s6item2 {
+    margin: 10px;
+    margin-top: 50px;
+}
+
+/*8th Slide*/
+.imagecontainer5 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    height: 700px;
+    width: 100%;
+}
+
+#s8textz1 {
+    width: 80%;
+    margin: auto;
+}
+
+/*10th Slide*/
+.s10con {
+    width: 65%;
+    padding: 10px;
+    padding-top: 100px;
+}
+
+/*11th Slide*/
+.s11item1 {
+    margin: auto;
+    width: 65%;
+    height: 130px;
+    padding: 0px 10px;
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+.s11box2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-right: 110px;
+}
